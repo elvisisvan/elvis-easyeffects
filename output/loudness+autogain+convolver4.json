@@ -851,16 +851,16 @@
             "volume": 4.500000000000008
         },
         "plugins_order": [
-            "bass_enhancer#0",
-            "bass_loudness#0",
-            "loudness#0",
+            "convolver#0",
+            "limiter#0",
+            "equalizer#0",
             "autogain#0",
             "compressor#0",
+            "loudness#0",
             "crossfeed#0",
-            "convolver#0",
             "crystalizer#0",
-            "equalizer#0",
-            "limiter#0"
+            "bass_enhancer#0",
+            "bass_loudness#0"
         ]
     }
 }
